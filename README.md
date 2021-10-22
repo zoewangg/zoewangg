@@ -1,6 +1,6 @@
 <h2> Hi 👋, I'm Zoe Wang </h2>
 
-I’m a software development engineer working on the [AWS SDK for Java](https://github.com/aws/aws-sdk-java-v2/). I'm passionate about building tools 🧰 to improve developer experience. I currently live in Raincouver:umbrella:, Canada. In my free time, I enjoy photography:camera: , hiking:mountain: , and playing video games (The Witcher 3 is my all-time favorite). 
+I’m a software development engineer working on the [AWS SDK for Java](https://github.com/aws/aws-sdk-java-v2/). I'm passionate about building tools 🧰 to improve developer experience. I currently live in Raincouver:umbrella:, Canada. In my free time, I enjoy photography:camera: , hiking:mountain: , and playing video games (The Witcher 3 is my all-time favorite). You can find me on [LinkedIn](https://www.linkedin.com/in/zoewangg).
 
 <h2>Latest Blog Posts</h2>
   <ul>
@@ -16,3 +16,4 @@ I’m a software development engineer working on the [AWS SDK for Java](https://
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoewangg&&theme=dracula" alt="zoewangg" /></p>
 
 [![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoewangg&theme=dracula&show_icons=true)](https://github.com/zoewangg/github-readme-stats)
+
