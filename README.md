@@ -1,6 +1,6 @@
 <h2> Hi 👋, I'm Zoe Wang </h2>
 
-I’m a Software Development Engineer working on the [AWS SDK for Java](https://github.com/aws/aws-sdk-java-v2/). I'm passionate about 1) building tools 🧰 to improve developer experience 2) benchmarking and optimizing application performance 3) solving complex async issues such as deadlocks and race conditions. I currently live in Raincouver:umbrella:, Canada. In my free time, I enjoy taking photos:camera: , hiking:mountain: , and playing video games (The Witcher 3 is my all-time favorite). You can find me on [LinkedIn](https://www.linkedin.com/in/zoewangg).
+I’m a Senior Software Engineer working on the [AWS SDK for Java](https://github.com/aws/aws-sdk-java-v2/). I'm passionate about 1) building tools 🧰 to improve developer experience 2) benchmarking and performance optimization 3) solving complex async issues such as deadlocks and race conditions. I currently live in Raincouver☂️, Canada. In my free time, I enjoy taking photos📸 , hiking🗻 , and playing video games 🎮 (Baldur's Gate 3 is my all-time favorite). You can find me on [LinkedIn](https://www.linkedin.com/in/zoewangg).
 
 <h2>Latest Blog Posts</h2>
   <ul>
